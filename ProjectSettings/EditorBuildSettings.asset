@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/P1.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 0
+    path: Assets/Scenes/1.1.unity
+    guid: ec88bbd741c3440438cd5921fd7d8e63
+  - enabled: 0
+    path: Assets/Scenes/full-body-interaction.unity
+    guid: 7a15636d6e25fdf41a9181afc47fbb1b
+  - enabled: 0
+    path: Assets/Scenes/sequencer.unity
+    guid: 8b4f9cda02d520b4bbf633264f2d593f
+  - enabled: 0
+    path: Assets/Scenes/hand-gesture.unity
+    guid: 193b3b4b40143bb419908e2ad5c4d637
+  - enabled: 1
+    path: Assets/Scenes/P3.unity
+    guid: eab5310c8ab89a646ac428d11d75c2ff
+  m_configObjects:
+    Unity.XR.WindowsMR.Settings: {fileID: 11400000, guid: 94a145b38ed320b43ba3301e50b35260,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 70ece263749584141b7cb7730dea9c2f,
+      type: 2}
