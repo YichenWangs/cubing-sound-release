@@ -1,6 +1,6 @@
 # cubing-sound-release
 
-This is the source code repo for the paper: [Wang, Y., & Martin, C. (2022). Cubing Sound: Designing a NIME for Head-mounted Augmented Reality. NIME 2022. https://doi.org/10.21428/92fbeb44.b540aa59](https://nime.pubpub.org/pub/w82of2do/release/1). 
+This is the source code repo for the paper: [Wang, Y., & Martin, C. (2022). Cubing Sound: Designing a NIME for Head-mounted Augmented Reality. NIME 2022. https://doi.org/10.21428/92fbeb44.b540aa59](https://nime.pubpub.org/pub/w82of2do/release/1). Please use this for the citation.
 
 It includes three prototypes which are presented in the paper using Microsoft HoloLens 2. 
 
