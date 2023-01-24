@@ -13,3 +13,5 @@ Hardware: Microsoft HoloLens 2
 and follow HoloLens tutorials :https://docs.microsoft.com/en-us/windows/mixed-reality/develop/development.
 
 For the visualiation of the audio, I took the inspiration from the tutorial by Artful Design: https://www.youtube.com/watch?v=nMeF2W2gv7E (thanks very much!).
+
+[![DOI](https://zenodo.org/badge/509316036.svg)](https://zenodo.org/badge/latestdoi/509316036)
